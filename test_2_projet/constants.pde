@@ -10,3 +10,4 @@ final PVector Up=new PVector(0,-1);
 final PVector Down=new PVector(0,1);
 final PVector Left=new PVector(-1,0);
 final PVector Right=new PVector(1,0);
+final int centre=20;

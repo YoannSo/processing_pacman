@@ -26,8 +26,8 @@ class Board
   }
 
   PVector getCellCenter(int i, int j) {
-    return new PVector( _position.x + j * _cellSize + (_cellSize * 0.5), 
-      _position.y + i * _cellSize + (_cellSize * 0.5) );
+    return new PVector( _position.x + i * _cellSize + (_cellSize * 0.5), 
+      _position.y + j * _cellSize + (_cellSize * 0.5) );
   }
 
   void loadLevel() {

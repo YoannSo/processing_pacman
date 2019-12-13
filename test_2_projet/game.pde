@@ -40,7 +40,7 @@ class Game
     //}
     println(hero.estAuCentre());
     println(_hero._cellX);
-    if (k=='z')
+   if (k=='z')
       _hero.launchMove(Up);
     if (k=='d')
       _hero.launchMove(Right);

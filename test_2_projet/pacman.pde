@@ -14,6 +14,7 @@ void setup() {
 }
 
 void draw() { 
+
   game.update();
   game.drawIt();
   
