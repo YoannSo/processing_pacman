@@ -1,0 +1,33 @@
+coords in X/Y
+new game: 
+	top left = 278/570
+	bottom right = 674/630
+
+load game:
+	top left = 267/680
+	bottom right = 690/741
+
+highscores: 
+	top left = 265/794
+	bottom right = 700/854
+exit sign:
+	top left = 65/840
+	bottom right = 176/919
+
+
+ALL STAGES:
+stage 0.0: press any key to start / exit
+stage 1.0: new game/load game/highscores/ exit
+	stage 1.5: new game/save game/ exit
+stage 2.0: game
+stage 99.0: are you sure you want to exit?
+
+stage 99 are you sure you want to exit:
+	yes:
+		top left = 191/744
+		bottom right = 424/837
+
+	no:
+		top left = 549/740
+		bottom right = 733/837
+	
