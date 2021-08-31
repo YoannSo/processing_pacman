@@ -5,7 +5,7 @@
   <img src="game.png" width="66%" height="66%" alt="game">
 </p>
 
-<p align="center">
+<p align="center" width="100%">
   <img src="menu.PNG" width="33%" height="33%" alt="menu">
   <img src="dead.PNG" width="33%" height="33%" alt="dead">
   <img src="main_menu.PNG" width="33%" height="33%" alt="main_menu">
