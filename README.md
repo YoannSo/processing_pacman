@@ -5,10 +5,10 @@
   <img src="game.png" width="66%" height="66%" alt="game">
 </p>
 
-<p align="center" width="100%">
-  <img src="menu.PNG" width="20%" height="20%" alt="menu">
-  <img src="dead.PNG" width="20%" height="20%" alt="dead">
-  <img src="main_menu.PNG" width="20%" height="20%" alt="main_menu">
+<p align="center" width=100%>
+  <img src="menu.PNG" width="30%" height="30%" alt="menu">
+  <img src="dead.PNG" width="30%" height="30%" alt="dead">
+  <img src="main_menu.PNG" width="30%" height="30%" alt="main_menu">
 </p>
 
 >## Project:
