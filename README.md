@@ -1,5 +1,28 @@
-PACMAN by TAYLOR Matt / SOCHAJ Yoann
-(Projet L2 informatique)
+<h1 align="center"> Pacman </h1>
+<br>
 
-Final Version: **Sochaj_Taylor**
-Written in Processing (Java) 
+<p align="center">
+  <img src="game.png" width="66%" height="66%" alt="game">
+</p>
+
+<p>
+  <img src="menu.PNG" width="33%" height="33%" alt="menu">
+  <img src="dead.PNG" width="33%" height="33%" alt="dead">
+  <img src="main_menu.PNG" width="33%" height="33%" alt="main_menu">
+</p>
+
+>## Project:
+Development of the famous game **Pacman** in the second year of my Computer Science degree at the F.S.T Limoges (France) with Yoann SOCHAJ.
+
+>## Technology used:
+Processing: https://processing.org/
+
+>## Authors:
+- Matt TAYLOR
+- Yoann SOCHAJ [(GitHub profile)](https://github.com/YoannSo)
+
+>## Final version:
+**Sochaj_Taylor**
+
+>## Useful Links:
+>#### Project report: [PacMan.pdf](PacMan.pdf)
