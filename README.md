@@ -6,9 +6,9 @@
 </p>
 
 <p align="center" width="100%">
-  <img src="menu.PNG" width="33%" height="33%" alt="menu">
-  <img src="dead.PNG" width="33%" height="33%" alt="dead">
-  <img src="main_menu.PNG" width="33%" height="33%" alt="main_menu">
+  <img src="menu.PNG" width="20%" height="20%" alt="menu">
+  <img src="dead.PNG" width="20%" height="20%" alt="dead">
+  <img src="main_menu.PNG" width="20%" height="20%" alt="main_menu">
 </p>
 
 >## Project:
