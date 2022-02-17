@@ -25,4 +25,4 @@ Processing: https://processing.org/
 **Sochaj_Taylor**
 
 >## Useful Links:
->#### Project report: [PacMan.pdf](PacMan.pdf)
+Project report: [PacMan.pdf](PacMan.pdf)
